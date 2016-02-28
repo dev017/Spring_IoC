@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/ajaxdivtag.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/asm-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/aspectjtools.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/claros-commons.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/cometd-6.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-beanutils-bean-collections.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-beanutils-core.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-configuration.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-dbutils.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-digester.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/dwr-3.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/geronimo-spec-jta-1.0.1B-rc4.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hibernate-3.2.2.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hibernate-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hibernate-entitymanager-3.3.1.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hibernate-validator-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/hsqldb-1.8.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/javassist-3.3.ga.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/jboss-common-core-2.0.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/jetty-util-6.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/mrpersister.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/org.springframework.aspects-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/smack.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/smackx.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/smackx-debug.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-context-support-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-security-aspects-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/spring-webmvc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Livrable Formation Java/Partie1Spring/lib_Spring/standard-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

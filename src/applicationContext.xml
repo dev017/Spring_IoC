@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" 
+"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<bean id="dao1" class="com.formation.spring.dao.IDaoAdherentImplBD">
+	</bean>
+	<bean id="dao2" class="com.formation.spring.dao.IDAOAdherentImplList">
+	</bean>
+	
+	<bean id="service" class="com.formation.spring.service.IServiceAdherentImpl" init-method="initAdherent">
+		<property name="dao">
+			<ref bean="dao1" />
+		</property>
+	</bean>
+	
+</beans> 
